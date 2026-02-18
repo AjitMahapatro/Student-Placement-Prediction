@@ -1,0 +1,501 @@
+gender,cgpa,internships,aptitude_score,communication_score,projects,branch,backlogs,status
+Male,6.41,2,86,56,4,BCA Data Science,3,1
+Female,6.85,1,51,47,3,BCom,3,0
+Male,9.09,1,55,60,2,BCom,0,1
+Male,6.52,2,63,57,1,BBA,4,0
+Male,5.81,2,58,69,3,BSc AI,1,1
+Female,7.67,2,47,57,5,BCA Data Science,5,0
+Male,9.49,3,70,85,1,BCA Data Science,2,1
+Male,8.34,1,60,86,1,BSc AI,3,0
+Male,7.74,3,56,70,0,BSc CS,3,1
+Female,5.47,3,62,77,4,BCA Data Science,5,0
+Male,7.95,2,76,71,3,BBA,1,1
+Male,9.75,2,93,50,1,BCA,4,1
+Male,5.67,0,55,84,0,BCA,3,0
+Male,7.49,0,45,64,5,BSc Data Science,1,0
+Female,9.21,3,47,72,2,BSc Data Science,5,1
+Male,8.56,1,64,99,3,BCA,0,1
+Female,8.35,2,57,77,1,BCA,4,0
+Female,8.37,2,64,80,4,BCom,2,1
+Female,6.73,3,51,47,0,BBA,3,0
+Male,6.41,0,54,50,1,BSc AI,1,0
+Female,8.88,1,98,61,4,BSc Data Science,0,1
+Male,8.89,0,65,90,1,BCom,2,0
+Female,9.16,0,80,63,3,BCom,1,1
+Female,9.38,0,84,80,3,BSc AI,1,1
+Female,7.45,0,65,56,3,BCom,2,0
+Female,7.41,2,86,51,5,BBA,0,1
+Female,8.83,2,71,96,5,BCA,5,1
+Female,8.12,0,49,85,0,BCA Data Science,0,0
+Female,8.37,1,55,71,3,BSc AI,4,0
+Female,8.82,3,46,54,4,BCA,3,1
+Male,9.27,1,56,55,1,BCA,2,0
+Male,6.62,1,62,93,2,BSc CS,5,0
+Female,6.8,1,65,61,4,BSc AI,2,0
+Female,5.45,0,60,67,5,BCom,2,0
+Female,7.78,2,61,59,5,BCA Data Science,0,1
+Male,5.17,1,97,72,4,BSc AI,3,0
+Female,7.23,0,46,49,5,BCom,4,0
+Male,7.6,1,53,79,3,BCA,1,1
+Male,6.38,1,54,71,0,BCA Data Science,1,0
+Male,7.84,0,92,89,1,BCom,2,0
+Male,5.15,2,46,99,0,BBA,3,0
+Male,5.18,2,48,72,1,BCom,5,0
+Female,8.95,3,90,41,1,BSc CS,0,1
+Female,6.73,0,87,72,0,BCA,3,0
+Female,5.61,3,47,72,4,BCom,3,1
+Female,7.51,3,89,80,1,BSc Data Science,0,1
+Female,8.7,3,98,52,0,BSc Data Science,2,1
+Male,6.04,2,62,69,1,BSc CS,3,0
+Female,7.99,0,68,72,2,BBA,1,0
+Female,5.41,3,57,52,4,BCA,0,1
+Male,5.25,0,70,91,3,BSc AI,5,0
+Female,7.55,0,69,65,1,BSc CS,4,0
+Male,7.6,2,91,61,2,BBA,2,1
+Female,8.06,3,78,78,3,BSc AI,0,1
+Male,8.49,3,74,41,3,BSc Data Science,4,1
+Female,9.68,0,57,77,1,BSc Data Science,4,0
+Female,7.48,1,98,78,0,BSc AI,5,0
+Male,6.55,2,81,65,1,BSc CS,3,0
+Male,8.82,2,78,85,2,BSc Data Science,5,1
+Male,6.3,2,56,97,3,BCA,3,1
+Male,7.11,2,53,89,1,BCA Data Science,3,0
+Male,5.38,3,70,54,0,BCom,0,1
+Male,5.12,3,63,73,1,BSc AI,0,1
+Male,9.62,1,74,81,4,BSc AI,2,1
+Male,9.01,2,83,94,0,BSc Data Science,3,1
+Female,8.34,2,99,83,2,BSc CS,4,1
+Female,6.96,0,84,88,3,BCA,1,1
+Male,5.83,3,73,79,1,BSc CS,2,1
+Female,5.75,2,42,50,0,BBA,0,0
+Female,6.2,1,76,42,4,BBA,5,0
+Female,7.64,1,82,98,0,BCA Data Science,2,1
+Female,8.43,3,79,45,5,BSc Data Science,2,1
+Male,8.17,1,65,48,4,BSc Data Science,2,1
+Female,6.34,1,94,45,2,BSc Data Science,2,0
+Male,9.58,3,62,48,3,BCA Data Science,1,1
+Female,8.54,2,83,78,2,BBA,5,1
+Female,7.66,2,78,70,1,BSc CS,5,0
+Female,7.94,1,54,71,0,BCA Data Science,5,0
+Male,7.01,1,95,80,5,BCA Data Science,3,1
+Female,6.19,2,88,89,4,BSc CS,4,1
+Male,6.71,3,43,51,4,BSc Data Science,5,0
+Female,8.64,1,68,47,0,BCA,2,0
+Male,5.07,0,61,47,5,BSc CS,2,0
+Female,5.56,3,64,89,0,BBA,5,0
+Male,5.22,1,52,67,1,BSc AI,5,0
+Male,5.2,1,57,59,2,BSc AI,2,0
+Female,9.11,0,72,86,4,BCom,3,1
+Male,8.38,0,55,98,1,BCom,0,1
+Female,7.28,2,84,46,2,BCA Data Science,0,1
+Female,5.47,3,81,50,1,BSc AI,5,0
+Female,7.36,3,83,59,5,BCA,1,1
+Female,7.27,2,41,55,4,BSc Data Science,5,0
+Female,5.83,3,94,43,0,BBA,5,0
+Female,7.08,3,74,45,0,BCom,0,1
+Female,6.91,3,81,97,2,BCA,2,1
+Female,7.96,3,73,61,3,BBA,5,1
+Female,8.05,3,69,65,5,BBA,2,1
+Female,5.22,0,98,42,2,BSc Data Science,2,0
+Female,6.8,3,94,80,3,BCA Data Science,1,1
+Male,8.0,0,52,99,1,BSc AI,2,0
+Male,7.42,3,52,81,5,BSc Data Science,0,1
+Female,9.11,2,57,53,1,BCA,3,1
+Female,8.16,1,71,50,4,BCA Data Science,3,0
+Female,5.78,0,71,57,5,BCA,4,0
+Female,5.34,3,74,93,3,BCA Data Science,5,0
+Female,8.08,2,98,51,4,BCom,0,1
+Female,5.13,1,78,62,0,BCA,2,0
+Female,7.81,0,85,51,3,BSc Data Science,3,0
+Female,9.51,1,91,52,2,BCA Data Science,0,1
+Male,7.76,2,68,64,0,BCA Data Science,3,0
+Female,6.86,0,88,84,0,BBA,2,0
+Male,8.09,1,68,90,2,BBA,3,0
+Female,7.2,3,92,97,5,BSc CS,5,1
+Female,7.62,0,83,58,0,BCA,5,0
+Male,9.52,1,96,94,3,BBA,4,1
+Female,6.85,2,55,85,4,BSc CS,4,0
+Male,9.61,2,95,75,0,BCom,3,1
+Female,9.35,0,83,84,3,BCom,0,1
+Female,5.94,1,86,47,1,BBA,5,0
+Male,5.33,0,96,68,3,BCA,0,0
+Female,5.48,0,49,94,4,BCA Data Science,0,0
+Male,5.09,1,69,92,3,BSc AI,3,0
+Female,5.45,1,64,94,2,BCA,0,1
+Male,8.28,3,78,71,4,BSc Data Science,5,1
+Male,5.34,1,59,90,5,BCom,2,0
+Female,6.53,2,44,83,1,BBA,4,0
+Female,9.06,0,40,57,2,BBA,2,0
+Male,5.11,0,69,45,5,BCA Data Science,0,0
+Female,8.91,2,88,57,3,BSc Data Science,2,1
+Female,6.35,1,42,58,4,BCA Data Science,5,0
+Female,5.57,2,84,61,1,BSc Data Science,5,0
+Male,8.34,2,53,76,2,BSc AI,0,1
+Male,8.02,3,95,71,5,BCom,3,1
+Male,9.21,2,69,95,5,BBA,2,1
+Male,8.53,0,89,80,1,BBA,3,0
+Male,8.86,2,43,98,3,BSc AI,3,1
+Male,6.35,0,57,42,1,BSc CS,1,0
+Male,5.85,0,76,67,5,BCom,0,1
+Male,8.6,0,64,49,0,BCA Data Science,4,0
+Male,8.87,1,87,90,2,BSc AI,5,0
+Female,9.75,3,40,74,1,BCA Data Science,5,1
+Male,6.98,0,92,68,5,BCA,0,1
+Female,6.79,0,85,93,3,BBA,4,0
+Female,8.73,1,54,54,5,BCA Data Science,5,0
+Female,6.64,0,48,72,3,BSc Data Science,0,0
+Male,9.47,2,54,46,1,BCA Data Science,5,0
+Male,9.12,2,88,51,3,BCA,3,1
+Male,7.06,3,96,88,4,BCom,2,1
+Male,8.6,0,63,69,4,BBA,2,0
+Female,8.62,1,43,60,4,BSc AI,5,0
+Male,5.49,2,51,70,0,BCA,1,0
+Male,9.33,1,98,97,1,BBA,4,1
+Male,7.43,1,97,63,5,BCA Data Science,4,0
+Male,8.97,2,76,59,5,BCom,4,1
+Male,6.54,1,76,76,0,BSc CS,3,0
+Female,9.3,2,82,43,3,BCom,4,1
+Male,6.87,1,99,67,0,BSc CS,2,0
+Female,5.05,2,45,83,3,BSc Data Science,3,0
+Male,9.35,0,78,59,3,BCom,0,1
+Female,5.44,3,95,99,2,BBA,4,1
+Male,6.53,2,85,63,5,BSc CS,4,1
+Male,9.56,2,63,89,4,BSc AI,0,1
+Female,9.56,3,50,88,3,BBA,4,1
+Female,7.75,2,52,90,2,BSc AI,0,1
+Female,8.03,2,73,71,5,BCom,3,1
+Male,7.15,1,64,80,4,BSc AI,2,1
+Female,6.41,3,46,75,3,BSc CS,0,1
+Male,6.58,0,91,97,3,BBA,1,1
+Male,8.23,2,43,92,0,BCA Data Science,0,1
+Female,8.61,3,98,73,0,BCA,4,1
+Female,8.8,1,47,75,5,BSc CS,3,1
+Male,8.79,0,59,41,4,BSc CS,5,0
+Male,5.44,3,68,54,3,BCA Data Science,3,1
+Female,7.37,0,93,73,5,BBA,5,0
+Female,5.28,0,92,75,5,BBA,0,1
+Female,7.64,0,90,45,1,BCom,2,0
+Male,7.12,2,84,78,0,BSc AI,1,1
+Male,9.26,2,85,81,4,BCom,3,1
+Male,6.68,1,49,90,3,BCA Data Science,4,0
+Male,5.56,1,82,90,5,BCom,5,0
+Male,5.69,3,73,97,3,BCA Data Science,4,1
+Male,8.66,1,96,93,1,BBA,2,1
+Female,7.97,0,65,51,4,BSc AI,5,0
+Male,5.49,0,80,42,5,BCom,3,0
+Male,5.4,2,88,84,3,BSc CS,0,1
+Male,8.36,0,97,57,0,BSc Data Science,4,0
+Female,5.35,3,42,79,1,BCA,2,0
+Male,8.94,0,95,60,4,BSc CS,3,0
+Male,8.39,0,45,54,1,BBA,3,0
+Female,5.39,3,44,72,0,BCA,3,0
+Male,5.41,1,44,74,4,BSc Data Science,3,0
+Male,9.74,1,93,65,1,BSc Data Science,5,0
+Male,6.8,3,86,47,2,BSc AI,3,1
+Male,6.78,2,62,75,0,BCA,4,0
+Male,8.9,0,88,87,0,BSc AI,2,0
+Female,9.55,3,48,69,0,BSc CS,5,0
+Female,9.73,0,74,62,2,BCA Data Science,3,0
+Female,8.62,2,59,81,2,BCA Data Science,1,1
+Male,6.81,0,97,83,3,BCA Data Science,1,1
+Male,5.4,3,88,53,5,BCA,2,1
+Male,8.73,0,98,53,1,BCA Data Science,0,1
+Female,7.68,1,81,41,3,BSc CS,0,1
+Male,7.04,2,74,94,1,BSc AI,5,0
+Male,9.35,2,89,76,5,BCA,5,1
+Female,5.53,2,57,44,2,BSc AI,5,0
+Male,7.36,3,56,77,5,BCA,0,1
+Female,5.05,2,63,84,2,BSc AI,1,1
+Female,7.25,1,42,80,5,BSc Data Science,0,1
+Female,5.27,3,71,93,3,BSc AI,4,1
+Male,5.57,1,74,99,4,BCA Data Science,3,0
+Male,5.56,0,77,86,3,BSc Data Science,5,0
+Male,8.12,0,52,53,1,BSc AI,1,0
+Male,8.58,0,95,95,3,BCA,2,1
+Male,7.8,0,86,78,0,BCA,2,0
+Male,9.62,1,64,64,1,BCA,3,0
+Male,6.8,3,48,59,5,BBA,1,1
+Female,6.37,3,43,41,1,BSc CS,0,1
+Male,9.17,2,53,78,4,BCA,0,1
+Female,6.07,1,76,45,2,BSc Data Science,4,0
+Male,9.62,0,73,56,5,BCA,4,0
+Male,5.06,1,50,98,1,BBA,0,0
+Male,9.66,2,80,64,5,BCA Data Science,2,1
+Female,5.21,2,95,96,5,BSc Data Science,5,0
+Female,9.28,1,42,67,5,BBA,2,1
+Female,7.53,1,98,41,2,BCA Data Science,4,0
+Female,9.77,1,67,74,3,BCom,3,1
+Male,5.35,3,68,76,5,BCom,0,1
+Female,7.66,0,48,44,0,BSc Data Science,4,0
+Male,9.65,1,42,40,4,BSc AI,4,0
+Male,7.51,1,64,79,2,BSc CS,5,0
+Female,8.02,1,73,51,1,BSc CS,0,1
+Female,8.34,2,51,95,2,BBA,5,0
+Female,7.18,2,81,75,1,BCA Data Science,0,1
+Female,8.01,3,48,84,2,BSc CS,5,1
+Female,7.8,0,54,62,1,BCA Data Science,2,0
+Female,9.33,3,79,86,5,BCA Data Science,3,1
+Female,5.22,0,64,70,3,BBA,3,0
+Female,6.35,2,44,50,1,BBA,0,1
+Male,9.56,2,50,49,1,BBA,1,1
+Female,9.27,2,98,42,0,BSc CS,4,0
+Female,7.19,3,73,93,1,BCom,4,1
+Male,7.98,1,63,53,0,BBA,0,1
+Female,6.33,1,99,55,4,BSc CS,5,0
+Male,5.9,2,54,49,5,BBA,1,1
+Male,7.23,1,77,68,0,BCA,2,0
+Female,6.7,1,47,49,3,BCA Data Science,5,0
+Male,7.8,3,98,51,5,BBA,5,1
+Male,5.37,0,44,69,0,BSc Data Science,0,0
+Male,9.68,2,87,80,5,BCA Data Science,0,1
+Male,9.73,2,65,40,5,BCA Data Science,4,1
+Female,8.35,3,57,44,5,BBA,0,1
+Male,7.57,3,45,59,4,BCom,0,1
+Female,6.49,1,76,47,3,BSc AI,0,1
+Male,8.91,2,99,82,2,BCom,4,1
+Male,8.29,0,87,51,2,BBA,2,0
+Male,5.78,3,52,40,0,BCA Data Science,2,0
+Male,9.37,0,67,96,5,BSc Data Science,0,1
+Female,8.95,0,44,93,0,BCA Data Science,4,0
+Female,9.56,2,52,59,4,BCom,2,1
+Male,8.48,2,56,67,4,BSc Data Science,5,0
+Male,7.94,3,89,96,1,BSc CS,2,1
+Female,7.01,2,79,82,4,BCA,2,1
+Male,9.48,2,84,76,1,BCA Data Science,4,1
+Male,9.16,2,71,86,3,BBA,5,1
+Male,5.22,0,68,76,0,BSc CS,4,0
+Female,5.13,3,90,51,3,BCA,0,1
+Female,6.81,1,97,76,4,BBA,3,1
+Female,8.89,0,42,88,3,BSc AI,2,0
+Male,9.74,2,95,88,3,BBA,3,1
+Male,5.72,0,79,95,3,BSc Data Science,4,0
+Female,7.85,2,73,83,4,BSc Data Science,4,1
+Female,6.83,2,79,95,5,BSc AI,4,1
+Female,9.66,0,66,67,3,BSc CS,3,0
+Female,9.04,3,52,86,1,BCA,4,1
+Male,9.02,2,84,54,4,BBA,0,1
+Female,7.25,3,72,45,3,BSc Data Science,4,1
+Male,6.99,1,45,83,5,BSc CS,1,1
+Female,6.31,2,63,98,4,BSc AI,3,1
+Male,5.27,3,58,59,2,BCom,1,1
+Female,9.15,3,55,89,5,BCA Data Science,4,1
+Female,8.9,1,79,53,1,BCom,0,1
+Female,9.8,3,67,41,3,BCom,2,1
+Female,9.78,3,72,48,2,BSc Data Science,5,1
+Male,7.67,1,98,76,2,BSc AI,5,0
+Female,8.69,2,98,59,4,BBA,4,1
+Male,9.53,3,87,65,2,BCom,0,1
+Male,9.08,3,80,68,1,BCom,3,1
+Male,6.19,3,52,40,1,BCA,1,1
+Male,7.16,0,82,94,0,BSc Data Science,1,0
+Female,5.62,1,84,74,1,BSc Data Science,1,0
+Male,9.58,0,64,45,5,BBA,3,0
+Male,7.91,1,92,76,2,BCA Data Science,5,0
+Male,6.1,2,81,92,1,BSc CS,0,1
+Female,8.22,2,75,98,4,BCA,3,1
+Female,7.97,3,66,44,0,BSc Data Science,1,1
+Female,6.72,1,77,72,2,BCA,4,0
+Female,5.55,2,99,88,0,BSc Data Science,2,1
+Male,8.22,1,46,90,2,BCA,3,0
+Male,7.5,2,44,53,4,BSc AI,3,0
+Female,8.71,0,82,51,0,BCom,0,0
+Male,7.5,2,84,81,3,BSc Data Science,0,1
+Male,9.09,0,97,59,5,BCA,3,1
+Male,7.65,2,96,92,5,BSc CS,1,1
+Female,7.69,3,90,89,2,BSc AI,2,1
+Female,9.21,0,70,63,3,BSc AI,0,1
+Male,6.94,2,62,98,0,BSc CS,1,1
+Female,5.64,3,81,82,3,BCA,4,1
+Female,5.14,0,49,73,3,BBA,0,0
+Female,8.62,3,71,64,0,BSc CS,1,1
+Female,7.98,1,82,89,4,BCA,1,1
+Female,8.38,1,92,68,3,BSc CS,2,1
+Male,6.02,0,69,96,3,BSc CS,2,0
+Female,5.65,2,78,78,4,BSc Data Science,4,0
+Male,5.07,0,70,70,3,BCA,1,0
+Male,6.68,3,57,95,3,BBA,5,1
+Female,7.83,2,75,86,3,BCom,1,1
+Male,6.88,1,41,82,5,BSc Data Science,2,1
+Male,7.1,2,53,89,1,BSc CS,5,0
+Male,9.34,1,52,62,4,BCom,0,1
+Female,6.67,2,68,83,3,BCA Data Science,0,1
+Female,7.47,2,51,77,5,BCom,3,1
+Male,8.76,2,78,59,4,BSc CS,2,1
+Female,6.9,3,41,62,2,BSc CS,3,1
+Female,7.99,3,71,84,2,BCA,5,1
+Female,9.14,0,52,91,3,BCA,2,1
+Female,9.56,0,85,55,5,BSc Data Science,4,0
+Male,5.71,1,66,89,5,BBA,1,1
+Male,9.45,3,88,81,4,BSc Data Science,4,1
+Female,7.36,1,80,99,4,BSc AI,5,0
+Female,6.24,0,56,94,5,BSc CS,2,0
+Male,7.2,1,79,47,4,BCom,5,0
+Male,9.7,0,70,89,5,BCA Data Science,1,1
+Female,7.36,3,73,60,1,BSc CS,0,1
+Male,6.58,2,99,40,5,BSc CS,0,1
+Female,8.04,3,63,94,2,BSc Data Science,5,1
+Female,6.15,1,84,47,4,BCA Data Science,3,0
+Male,5.36,1,74,68,5,BCA Data Science,2,0
+Male,5.62,3,87,71,5,BCA Data Science,2,1
+Female,5.61,3,45,77,4,BSc Data Science,0,1
+Female,5.73,0,58,44,1,BSc CS,4,0
+Male,5.67,1,69,86,1,BSc Data Science,1,0
+Female,8.08,1,46,61,4,BCA,4,0
+Male,5.87,3,49,86,0,BCA,4,0
+Female,6.66,2,80,73,4,BSc Data Science,5,0
+Male,9.3,1,71,40,4,BCA Data Science,0,1
+Male,7.28,2,73,94,1,BSc CS,0,1
+Male,8.2,3,67,94,1,BSc Data Science,0,1
+Female,5.83,3,99,65,4,BSc Data Science,5,1
+Female,5.92,0,54,82,4,BSc Data Science,3,0
+Male,5.2,1,69,49,4,BSc AI,4,0
+Female,5.81,2,76,69,1,BCA,5,0
+Male,6.34,0,68,89,4,BCom,2,0
+Male,5.85,1,61,57,4,BCA Data Science,1,0
+Female,5.43,0,43,56,3,BBA,3,0
+Female,5.58,3,59,65,0,BCom,2,0
+Male,7.21,1,71,47,2,BCA Data Science,4,0
+Female,5.99,0,75,86,0,BBA,0,0
+Female,6.75,0,89,79,3,BSc AI,4,0
+Male,7.42,2,43,88,2,BSc Data Science,5,0
+Male,8.31,0,66,51,4,BSc AI,1,0
+Female,5.19,1,56,66,3,BSc AI,5,0
+Male,8.84,1,51,47,4,BCom,3,0
+Male,8.01,2,61,64,1,BSc CS,3,0
+Female,5.39,1,56,85,5,BCom,1,1
+Male,9.19,3,49,43,3,BCA,2,1
+Male,9.42,1,93,72,1,BBA,2,1
+Female,5.29,1,40,40,3,BSc Data Science,3,0
+Female,6.33,0,61,58,3,BCom,3,0
+Male,8.87,0,65,70,1,BBA,0,1
+Male,8.59,1,95,55,2,BCA Data Science,2,1
+Female,5.89,2,98,53,0,BBA,1,1
+Female,6.0,0,57,92,4,BCA Data Science,2,0
+Female,6.78,2,89,87,3,BCom,0,1
+Female,7.33,1,53,44,4,BCA,5,0
+Male,7.97,1,86,80,5,BCom,3,1
+Female,6.77,3,68,65,1,BCA Data Science,3,1
+Female,7.22,0,51,67,4,BBA,0,0
+Male,8.59,1,75,41,1,BBA,1,1
+Female,5.18,3,98,89,4,BCA Data Science,3,1
+Male,6.21,0,74,45,0,BSc AI,4,0
+Female,8.42,1,91,48,0,BCA,3,0
+Female,9.3,1,51,72,0,BSc CS,4,0
+Female,7.46,0,46,80,0,BSc Data Science,0,0
+Male,7.55,0,68,64,0,BBA,0,0
+Male,5.51,0,50,87,0,BSc Data Science,3,0
+Female,7.15,1,72,52,1,BSc CS,2,0
+Male,7.56,1,45,48,3,BCom,4,0
+Male,6.16,3,86,92,4,BSc Data Science,1,1
+Male,6.29,2,54,52,0,BSc CS,3,0
+Male,6.81,0,71,70,1,BCA Data Science,1,0
+Male,5.1,1,90,80,1,BSc AI,3,0
+Male,6.55,1,50,50,1,BBA,2,0
+Female,6.01,0,97,43,3,BSc CS,2,0
+Female,6.57,2,62,73,4,BSc Data Science,2,1
+Male,5.57,0,65,77,3,BBA,5,0
+Female,9.27,2,73,85,2,BSc AI,2,1
+Female,7.85,1,85,43,1,BCA Data Science,0,1
+Female,8.26,2,73,77,2,BCom,0,1
+Female,8.79,3,68,58,5,BBA,5,1
+Male,7.39,1,43,45,0,BCom,4,0
+Female,5.42,3,56,73,0,BSc CS,1,1
+Female,7.58,0,74,57,3,BSc AI,3,0
+Male,7.82,0,52,52,4,BSc Data Science,3,0
+Male,8.58,0,80,80,2,BSc AI,5,0
+Female,7.07,2,78,62,4,BSc AI,0,1
+Female,5.61,1,54,58,3,BCA,3,0
+Female,6.36,0,94,84,0,BSc AI,0,0
+Female,6.74,0,68,50,4,BSc AI,4,0
+Female,8.1,1,68,40,4,BBA,1,1
+Female,7.74,0,50,63,0,BSc Data Science,4,0
+Male,6.71,3,91,93,2,BBA,5,1
+Female,9.74,1,71,46,0,BBA,2,0
+Female,7.91,1,41,64,4,BSc CS,2,0
+Male,6.14,1,86,60,2,BBA,2,0
+Male,5.49,3,53,54,2,BCA,4,0
+Male,5.73,1,59,40,0,BCA,3,0
+Male,6.18,3,61,51,4,BCom,1,1
+Female,5.77,1,50,97,3,BSc CS,2,0
+Female,5.9,2,66,46,4,BCom,5,0
+Female,6.37,0,42,54,1,BCom,5,0
+Female,5.83,2,56,60,5,BCA Data Science,2,1
+Female,9.3,0,83,58,3,BSc Data Science,2,1
+Female,5.39,3,95,99,2,BSc Data Science,1,1
+Male,7.52,2,67,68,3,BBA,2,1
+Female,6.97,1,68,64,2,BBA,1,0
+Male,9.72,0,60,72,2,BCA Data Science,5,0
+Male,5.54,0,86,88,3,BBA,2,0
+Female,6.91,2,55,71,2,BSc Data Science,4,0
+Male,9.65,3,76,88,2,BCom,4,1
+Female,9.15,2,98,74,1,BSc AI,5,1
+Male,8.92,3,59,83,4,BCA,1,1
+Female,6.24,3,45,77,4,BSc AI,4,1
+Male,5.82,0,58,65,5,BSc AI,1,0
+Female,8.21,2,96,50,5,BSc Data Science,4,1
+Female,9.46,2,44,74,1,BSc AI,4,0
+Female,7.67,3,42,47,5,BCA Data Science,1,1
+Female,7.74,2,98,85,3,BSc CS,3,1
+Female,6.34,1,40,53,0,BBA,4,0
+Male,8.69,1,97,49,0,BSc CS,2,1
+Male,5.9,2,99,41,0,BCom,5,0
+Male,6.55,2,77,85,1,BCA,3,0
+Female,7.04,3,54,48,1,BBA,1,1
+Male,7.44,1,73,42,2,BSc AI,3,0
+Female,6.16,1,74,60,0,BCA,0,0
+Female,5.55,0,88,65,3,BBA,0,0
+Male,7.93,3,64,47,5,BCA Data Science,4,1
+Male,6.39,0,63,87,3,BCA Data Science,4,0
+Female,7.79,1,51,41,5,BCA Data Science,2,0
+Male,5.74,3,57,45,0,BCA Data Science,5,0
+Female,7.31,2,54,67,0,BSc AI,3,0
+Female,7.56,3,83,92,0,BSc CS,0,1
+Female,5.25,2,55,68,1,BBA,4,0
+Female,6.62,2,66,65,5,BSc AI,5,0
+Female,5.65,3,47,64,1,BCA Data Science,3,0
+Male,5.3,2,99,51,1,BCom,4,0
+Male,9.75,0,85,44,4,BSc CS,4,0
+Female,6.55,1,64,73,3,BCom,0,1
+Female,8.89,2,56,87,3,BCA,0,1
+Male,6.22,0,68,76,2,BCom,4,0
+Male,8.27,2,92,54,1,BCA,1,1
+Female,8.65,1,47,83,5,BCA,4,0
+Male,7.86,0,54,75,4,BCA Data Science,5,0
+Female,7.26,1,66,54,4,BCA,4,0
+Male,6.98,1,85,82,3,BSc Data Science,2,1
+Female,6.67,0,89,87,1,BBA,2,0
+Male,9.46,0,91,62,2,BBA,2,1
+Female,8.99,0,46,45,1,BCA Data Science,1,0
+Male,9.63,3,42,85,0,BSc Data Science,1,1
+Male,5.6,0,68,89,1,BCom,4,0
+Female,8.51,0,83,83,0,BSc AI,2,0
+Male,9.5,0,92,98,0,BCom,1,1
+Female,5.87,0,63,82,2,BSc AI,0,0
+Male,5.32,2,99,84,5,BCA,4,1
+Female,8.56,3,97,60,3,BSc CS,5,1
+Male,7.76,1,42,62,1,BSc AI,3,0
+Female,9.04,0,59,82,0,BSc CS,4,0
+Male,5.67,2,85,94,1,BBA,3,0
+Female,8.82,2,54,55,5,BSc CS,2,1
+Male,5.97,2,64,86,3,BBA,3,0
+Female,5.79,1,69,92,5,BSc Data Science,2,1
+Female,5.79,0,53,99,3,BSc Data Science,0,0
+Female,8.91,3,46,54,4,BCA Data Science,3,1
+Male,8.19,3,56,64,3,BCA Data Science,4,1
+Female,7.51,2,83,75,2,BCA,2,1
+Male,6.72,1,59,50,5,BSc AI,4,0
+Female,9.21,1,75,90,0,BCA,1,1
+Male,6.88,1,48,54,4,BBA,2,0
+Female,8.92,3,77,43,2,BCA,3,1
+Male,7.11,2,87,60,1,BSc CS,2,1
+Male,6.81,0,96,52,5,BBA,4,0
+Female,7.22,3,99,61,0,BCA Data Science,0,1
+Male,6.45,2,61,58,3,BSc Data Science,2,1
+Male,8.59,2,93,73,0,BCA Data Science,3,1
+Female,7.41,0,92,53,1,BSc AI,1,0
+Male,6.11,0,92,43,4,BBA,5,0
+Male,9.32,0,41,87,4,BBA,0,1
+Male,6.84,1,63,92,5,BSc CS,1,1
+Female,7.61,0,47,91,4,BSc AI,2,0
+Male,9.35,2,50,85,5,BSc Data Science,4,1
+Female,8.0,0,52,66,5,BCom,4,0
